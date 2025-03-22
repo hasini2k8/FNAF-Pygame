@@ -1,0 +1,30 @@
+What are the two official languages of Canada?,English and Spanish,English and French,French and German,English and Chinese,2
+Which Canadian province is known for its stunning Rocky Mountains?,Ontario,British Columbia,Quebec,Alberta,4
+A shirt costs $25 and is on sale for 20% off. what is the discounted price?,$15,$20,$22,$30,2
+In which year did Canada officially become a country?,1763,1867,1901,1921,2
+What is the function of red blood cells in the human body?,Carrying oxygen,Fighting infections,Digesting food,Producing hormones,1
+If the circumference of a circle is 24(pie):what is its radius?,4,6,12,8,3
+In which year did the Titanic sink?,1912,1920,1931,1943,1
+Who was the first President of the United States?,Thomas Jefferson,George Washington,John Adams,Benjamin Franklin,2
+Who is often referred to as the "father of the computer"?,Alan Turing,Charles Babbage,Bill Gates,Steve Jobs,2
+In the human body: which organ produces insulin?,Liver,Kidneys,Pancreas,Stomach,3
+Who was the first woman to win a Nobel Prize? In which field?,Marie Curie-Physics,Jane Addams-Peace,Mother Teresa-Literature,Rosalind Franklin-Chemistry,1
+What is the purpose of a firewall in computer security?,Virus detection,Physical wall,Data encryption,Network access/monitoring,4
+What is the capital of Japan,Tokyo,Ottawa,Cairo,Beijing,1
+What is 2^5,64,32,24,42,2
+What is valency of Oxygen,1,3,2,4,3
+What helps in circulating oxygen in human body,Blood,Nerve,Skin,Muscle,1
+Name function used to add item to list in Python,dict,pop,len,append,4
+Python method used to find length of list,tuple,extract,len,lenght,3
+Name planet known as "Red" planet,jupiter,saturn,venus,mars,4
+What is the largest mammal in the world,Elephant,Blue whale,Beluga Whale,Orangutan,2
+Which gas do plants absorb from atmosphere during respiration,oxygen,Carbon Dioxide,Carbon Monoxide,H20,1
+What is the smallest prime number,3,4,2,5,3
+Which planet is known as "Blue Planet",Neptune,earth,Uranus,Pluto,2
+What is sum of all internal angles in triangle,360,60,90,180,4
+Name famous scientist who developed theory of relativity,Isaac,einstein,Bohr,Abdul,2
+What is the atomic symbol for Gold,au,pb,na,ag,1
+How many sides does an heptagon have,6,7,8,9,2
+Name the main gas responsible for greenhouse effect,CO2,CO,SO2,H20,1
+What is 3^5,34,53,23,405,4
+What is the only bird that has the name of a fruit,Sparrow,Kiwi,Penquin,Humming Bird,2
